@@ -1,0 +1,25 @@
+.searchBox{
+    text-align: center;
+    
+}
+
+.result_box{
+    align-items: center;
+    margin-top: 20px;
+    border: 1px solid black;
+    border-radius: 14px;
+    width: 250px;
+}
+
+h2{
+    border-bottom: 1px solid black;
+    border-radius: 14px;
+}
+
+.res{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 100px; /* Adjust spacing between search and result */
+  /* margin-top: 50px; */
+}
