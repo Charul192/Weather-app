@@ -1,12 +1,40 @@
-# React + Vite
+🌦️ Weather App
+A simple and responsive React-based Weather App that allows users to fetch real-time weather details for any city using the OpenWeatherMap API. Built using React, Material UI, and modern JavaScript practices.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Features
+🔍 Search weather by city name
+🌡️ Get temperature, humidity, min/max temperature, and "feels like" info
+📄 Error handling for invalid or unknown cities
+🎨 Clean and responsive UI using Material UI
+📦 Built with React functional components and hooks (useState)
 
-Currently, two official plugins are available:
+🛠️ Tech Stack
+Frontend: React, HTML, CSS, Material UI
+API: OpenWeatherMap API
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+📸 Screenshots
+(Add screenshots here if possible — use a screenshots/ folder)
 
-## Expanding the ESLint configuration
+🔧 Setup Instructions
+Clone the repo
+git clone https://github.com/your-username/weather-app.git
+cd weather-app
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Install dependencies
+npm install
+
+Add your OpenWeatherMap API key
+Replace "Enter-Your-API-Key" in SearchBox.jsx with your actual API key.
+
+Run the app
+npm run dev
+
+📂 Folder Structure
+/src
+  ├── App.jsx
+  ├── SearchBox.jsx
+  ├── SearchBox.css
+  └── main.jsx
+
+🙋‍♀️ Author
+Charul192
