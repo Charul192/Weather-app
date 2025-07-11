@@ -38,14 +38,16 @@ A simple and responsive React-based Weather App that allows users to fetch real-
 4. Run the app
     ```bash
     npm run dev
+    ```
 
-📂 Folder Structure
-  
+## 📂 Folder Structure
+  ```bash
       /src
         ├── App.jsx
         ├── SearchBox.jsx
         ├── SearchBox.css
         └── main.jsx
-
-🙋‍♀️ Author
-Charul192
+   ```
+## 🙋‍♀️ Author
+- Made with ❤️ by Charul192
+- Feel free to connect or contribute!
